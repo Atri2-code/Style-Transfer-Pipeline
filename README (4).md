@@ -1,4 +1,4 @@
-# style-transfer-pipeline
+# Style-transfer-pipeline
 
 > Neural style transfer with quantitative evaluation — built for production-readiness.
 
